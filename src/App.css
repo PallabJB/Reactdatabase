@@ -1,0 +1,72 @@
+/* src/App.css */
+.app-container {
+    padding: 20px;
+    font-family: 'Arial', sans-serif;
+    background-color: #75d2f7; 
+    min-height: 100vh;
+
+   
+  }
+  .form-wrapper{
+    background-color: #ffffff;
+    width: 50%;
+    padding: 20px 20px 20px;
+    border-radius: 20px;
+    margin: 100px auto;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1), 0 6px 20px rgba(0, 0, 0, 0.1); 
+
+   
+  }
+  
+
+  .error-msg{
+    color: rgb(255, 0, 0);
+    font-size: 12px;
+  }
+  
+  
+  .form-container {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1), 0 6px 20px rgba(0, 0, 0, 0.1); /* Adding box shadow */
+
+    
+  }
+  
+  .data-grid-container {
+    margin-top: 20px;
+  }
+  
+  .department-section {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .department-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  .department-header h2 {
+    margin: 0;
+    font-size: 16px;
+  }
+  
+  .department-list {
+    list-style-type: none;
+    padding-left: 20px;
+    margin: 0;
+  }
+  
+
+
+
+
+
+  
+  
